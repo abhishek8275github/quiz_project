@@ -2,12 +2,8 @@ package com.velocity.quiz;
 
 public class DbConnection {
 
-	public static void main(String[] args) {
+	public Connection getDbConnection () {
 		
-		
-		System.out.println("trying");
-		
-		System.out.println("trying.............");
 
 	}
 
